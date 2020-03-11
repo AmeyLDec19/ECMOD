@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EC Mod">
+	<suite-files>
+		<suite-file path="transactionScreenTest.xml"/>
+		<suite-file path="holdTest.xml" />
+		<suite-file path="jumpTest.xml" />
+		<suite-file path="deleteTest.xml" />
+		<suite-file path="userAdminTest.xml" />
+		<suite-file path="listScreenAccess.xml" />
+		<suite-file path="statusCode.xml" />
+		<suite-file path="reassign.xml" />
+		<suite-file path="overRide.xml" />
+		<suite-file path="reasonCodeTest.xml" />
+		<suite-file path="rootCauseTest.xml" />
+		<suite-file path="historyTest.xml" />
+		<suite-file path="preferencesTest.xml" />
+		<suite-file path="dashboardtest.xml" />
+	</suite-files>
+</suite> <!-- Suite -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transaction correction screen">
+  <test name="Transaction correction screen">
+    <classes>
+      <class name="com.tests.TransactionScreenTest"/>
+    </classes>
+  </test> <!-- Transaction correction screen -->
+</suite> <!-- Transaction correction screen -->

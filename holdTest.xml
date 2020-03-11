@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Hold">
+  <test name="HoldTest">
+    <classes>
+      <class name="com.tests.HoldTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
